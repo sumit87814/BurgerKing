@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sumit87814/BurgerKing/static/css/main.95184c17.css",
-    "main.js": "/sumit87814/BurgerKing/static/js/main.bd166e88.js",
-    "static/media/about.png": "/sumit87814/BurgerKing/static/media/about.5cfaf8a99d5231051570.png",
-    "static/media/banner.png": "/sumit87814/BurgerKing/static/media/banner.192d127276189eb9c330.png",
-    "static/media/footer.png": "/sumit87814/BurgerKing/static/media/footer.53806b7daa8d1ecfff9d.png",
-    "static/media/s1.png": "/sumit87814/BurgerKing/static/media/s1.8a4fa4559949141455f1.png",
-    "static/media/s2.png": "/sumit87814/BurgerKing/static/media/s2.b0665d1810c1ae19dfa3.png",
-    "index.html": "/sumit87814/BurgerKing/index.html",
-    "main.95184c17.css.map": "/sumit87814/BurgerKing/static/css/main.95184c17.css.map",
-    "main.bd166e88.js.map": "/sumit87814/BurgerKing/static/js/main.bd166e88.js.map"
+    "main.css": "/BurgerKing/static/css/main.100ac33b.css",
+    "main.js": "/BurgerKing/static/js/main.90d12800.js",
+    "static/media/about.png": "/BurgerKing/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/BurgerKing/static/media/banner.192d127276189eb9c330.png",
+    "static/media/footer.png": "/BurgerKing/static/media/footer.53806b7daa8d1ecfff9d.png",
+    "static/media/s1.png": "/BurgerKing/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/BurgerKing/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "index.html": "/BurgerKing/index.html",
+    "main.100ac33b.css.map": "/BurgerKing/static/css/main.100ac33b.css.map",
+    "main.90d12800.js.map": "/BurgerKing/static/js/main.90d12800.js.map"
   },
   "entrypoints": [
-    "static/css/main.95184c17.css",
-    "static/js/main.bd166e88.js"
+    "static/css/main.100ac33b.css",
+    "static/js/main.90d12800.js"
   ]
 }
